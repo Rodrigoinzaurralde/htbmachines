@@ -61,7 +61,3 @@ Este proyecto fue inspirado gracias al contenido del curso de Hack4u de S4vitar.
 
 🧑‍💻 Autor
 Rodrigo Inzaurralde
-
-
-
-
