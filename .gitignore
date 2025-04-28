@@ -1,0 +1,18 @@
+
+---
+
+# ⚙️ 3. Archivo: `.gitignore`
+
+Un `.gitignore` sencillo para este proyecto (así evitás subir archivos innecesarios):
+
+```gitignore
+# Ignorar archivos temporales
+*.tmp
+*.bak
+
+# Ignorar archivos de sistema
+.DS_Store
+
+# Ignorar el bundle descargado
+bundle.js
+bundle_temp.js
